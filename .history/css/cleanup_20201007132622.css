@@ -1,0 +1,8 @@
+/* write your override styles here */
+#wall{
+    background-color: aquamarine;
+}
+
+.tag-1{
+    text-shadow: black, 0.75em ;
+}
